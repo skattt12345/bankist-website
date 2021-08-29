@@ -609,7 +609,7 @@ h4 {
   background-color: rgba(0, 0, 0, 0.5);
   backdrop-filter: blur(4px);
   z-index: 100;
-  transition: all 0.5s;
+  transition: all 1s;
 }
 
 .modal__header {
